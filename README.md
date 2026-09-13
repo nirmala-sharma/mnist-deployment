@@ -11,12 +11,12 @@ A deep learning web application that recognizes handwritten digits in real time.
 
 ## 🖼️ Demo
 
-![App Screenshot](images/screenshot.png) 
+![App Screenshot](demo/App_Screenshot.png) 
 
 🔗 **Live Demo:** [digit-recognition.herokuapp.com](https://digit-detective-c0fd8e943fe2.herokuapp.com)
 ### 🎥 Video Demo
 
-[▶ Watch the demo](./Demo_Video.mov)
+[▶ Watch the demo](demo/Demo_Video.mov)
 
 ---
 
