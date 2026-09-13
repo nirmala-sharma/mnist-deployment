@@ -11,7 +11,8 @@ A deep learning web application that recognizes handwritten digits in real time.
 
 ## 🖼️ Demo
 <p align="center">
-  <img src="./demo/App_Screenshot.png" alt="MNIST demo" width="300">
+  <img src="./demo/App_Screenshot.png" alt="MNIST interface" width="300">
+  <img src="./demo/App_Screenshot2.png" alt="MNIST prediction result" width="300">
 </p>
 🔗 **Live Demo:** [digit-recognition.herokuapp.com](https://digit-detective-c0fd8e943fe2.herokuapp.com)
 
